@@ -1,0 +1,21 @@
+h1. Scramble Tweet
+
+Research says that words can still be read if the letters scrambled, as long as the first and the last letter stay still.
+So I make a twitter client in order to try this.
+
+It's based on dabr engine, no need to much config.
+
+h2. Getting Started
+
+It has been designed to work on Apache,
+with PHP 5.2+ (because it uses the json_decode() function).
+I my self running a test server on a Windows OS (poor me :P ) is XAMPP (or XAMPP Lite)
+You need to copy all the files onto the server for it to work.
+No database is needed.
+
+
+h3. A 'Lil Configure 
+Rename config.sample.php to config.php
+Change ENCRYPTION_KEY in config.php to a random string of gibberish, maximum 52 characters.
+Fill the OAUTH_CONSUMER_KEY and OAUTH_CONSUMER_SECRET
+Voila! Everythings done!
