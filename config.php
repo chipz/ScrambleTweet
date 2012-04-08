@@ -32,7 +32,7 @@ define('INMOBI_API_KEY', '');
 // define('LONGURL_KEY', 'true');
 
 // Optional: Enable to view page processing and API time
-define('DEBUG_MODE', 'ON');
+define('DEBUG_MODE', 'OFF');
 
 // Base URL, should point to your website, including a trailing slash
 // Can be set manually but the following code tries to work it out automatically.
