@@ -15,6 +15,7 @@ No database is needed.
 
 
 h3. A 'Lil Configure 
+
 Rename config.sample.php to config.php
 Change ENCRYPTION_KEY in config.php to a random string of gibberish, maximum 52 characters.
 Fill the OAUTH_CONSUMER_KEY and OAUTH_CONSUMER_SECRET
