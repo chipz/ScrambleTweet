@@ -14,7 +14,7 @@ You need to copy all the files onto the server for it to work.
 No database is needed.
 
 
-h3. A 'Lil Configure 
+h3. A 'Lil Configuration
 
 Rename config.sample.php to config.php
 Change ENCRYPTION_KEY in config.php to a random string of gibberish, maximum 52 characters.
